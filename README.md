@@ -11,10 +11,11 @@ PORT = 4000 <br>
 ATLAS_URI = <**** Paste MongoDB connection string here ****>
 <br>
 <br>
-## Setup
-- Install Node.js from Nodejs website.
 
-## Start the server
+## Setup
+It require the npm and Node.js installed on the system.
+
+Follow the steps:
 - Install the required dependency entering the following command in the folder terminal.
 ### `npm install`
 - Now start the server with the following command.
