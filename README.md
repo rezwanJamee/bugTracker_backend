@@ -20,6 +20,6 @@ Follow the steps:
 ### `npm install`
 - Now start the server with the following command.
 ### `npm start server`
-or 
+- For development works use
 ### `nodemon server`
 <br>
